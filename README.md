@@ -1,5 +1,5 @@
 # Reverse Each Word
-
+ 
 ## Objectives
 
 1. Understand the return value of the each method
